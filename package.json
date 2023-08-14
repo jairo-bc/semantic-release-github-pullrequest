@@ -41,7 +41,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "@octokit/rest": "^18.1.0",
+    "@octokit/rest": "^20.0.1",
     "@semantic-release/error": "^3.0.0",
     "@semantic-release/github": "^8.0.2",
     "aggregate-error": "^3.1.0",
